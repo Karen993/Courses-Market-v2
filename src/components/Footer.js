@@ -3,6 +3,10 @@ export default function Footer() {
     <div
       style={{
         display: "flex",
+        justifyContent: "center",
+        alignItems: "flex-end",
+        marginTop: 200,
+
         height: 50,
         backgroundColor: "#001428",
         color: "white",
